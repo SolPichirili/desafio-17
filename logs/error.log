@@ -1,0 +1,12 @@
+
+
+{"level":"error","message":"Error: Error: listen EACCES: permission denied process.argv[2] || 8080"}
+{"level":"error","message":"Error: Error: listen EACCES: permission denied fs"}
+{"level":"error","message":"Error: Error: listen EACCES: permission denied fs"}
+{"level":"error","message":"Error: Error: listen EACCES: permission denied memory"}
+{"level":"error","message":"Error: Error: listen EACCES: permission denied memory"}
+{"level":"error","message":"Error: Error: listen EACCES: permission denied memory"}
+{"level":"error","message":"Error: Error: listen EACCES: permission denied memory"}
+{"level":"error","message":"Error: Error: listen EACCES: permission denied memory"}
+{"level":"error","message":"Error: Error: listen EACCES: permission denied MEMORY"}
+{"level":"error","message":"Error: Error: listen EACCES: permission denied FS"}
